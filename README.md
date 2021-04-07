@@ -1,4 +1,4 @@
-# EasyTraceRoute
+# TCPTraceRoute
 
 Python implementation of TCP Traceroute based on Scapy library  
 Usage:  
